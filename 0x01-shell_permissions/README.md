@@ -8,3 +8,4 @@
 7. a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 8. James Bond
 9. John Doe
+10. Look in the mirror
