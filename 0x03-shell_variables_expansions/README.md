@@ -13,3 +13,4 @@
 12. Combination
 13. Floats
 
+15. Everyone is a proponent of strong encryption
